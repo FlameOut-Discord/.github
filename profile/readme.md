@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://github.com/FlameOut-Discord/.github/raw/main/profile/flame_banner_halloween.png" height="200px" title="FlameOut icon">
+    <img src="https://github.com/FlameOut-Discord/.github/raw/main/profile/flame_banner_white_halloween.png" height="200px" title="FlameOut icon">
   </p>
   <br>
   <p>
