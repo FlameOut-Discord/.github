@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://github.com/FlameOut-Discord/.github/raw/main/profile/flame_banner_white.png" height="200px" title="FlameOut icon">
+    <img src="https://github.com/FlameOut-Discord/flameout-design/blob/main/newyear/flame_banner_white_newyear.png" height="200px" title="FlameOut Banner">
   </p>
   <p>
     <a href="https://discord.gg/EJc8UC7yhZ"><img src="https://img.shields.io/discord/457858774099689479?color=5865F2&logo=discord&logoColor=white" alt="server"/></a>
