@@ -10,6 +10,10 @@
     <a href="https://top.gg/bot/747431086816100402"><img src="https://top.gg/api/widget/servers/747431086816100402.svg"></a>
     <a href="https://top.gg/bot/747431086816100402/vote"><img src="https://top.gg/api/widget/upvotes/747431086816100402.svg" title="Проголосовать и получить бонус"></a>
   </p>
+
+  <h3>
+    Разработка проекта окончена. Подробнее: <a href="https://t.me/flameoutupdates/845">https://t.me/flameoutupdates/845</a>
+  </h3>
   
   <span align="center">
     FlameOut <b>Team</b> разрабатывает и занимается проектами по FlameOut начиная с 24 августа 2020 г., в команде состоит 5 человек.<br>
